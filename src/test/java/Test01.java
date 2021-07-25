@@ -4,8 +4,8 @@ public class Test01 {
 
     @Test
     public void test01(){
-        System.out.println(0000);
-        System.out.println(4444);
-        System.out.println(567);
+        System.out.println(24124214);
+        System.out.println(3333);
+        System.out.println("141421");
     }
 }
