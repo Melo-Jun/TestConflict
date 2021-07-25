@@ -6,5 +6,6 @@ public class Test01 {
     public void test01(){
         System.out.println(24124214);
         System.out.println(3333);
+        System.out.println("14142141");
     }
 }
